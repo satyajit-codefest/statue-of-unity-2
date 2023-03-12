@@ -1,0 +1,18 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.div1 img{
+    height: 700px;
+    width: 50%;
+    float: left;
+}
+
+.div2{
+    background-color: black;
+    height: 700px;
+    width: 50%;
+    float: right;
+    color: white;
+}
